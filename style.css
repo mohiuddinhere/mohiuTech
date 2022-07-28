@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Roboto:ital@0;1&display=swap');
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+/* .carousel-caption-mohiutech {
+    padding-bottom: 8rem;
+} */
+
+@media only screen and (max-width: 600px) {
+    .carousel-fixed-height{
+        height: 300px;
+    }
+    .card-fixed-width{
+        width: 100%;
+    }
+}
